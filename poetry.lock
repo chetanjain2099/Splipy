@@ -1138,5 +1138,5 @@ rhino = []
 
 [metadata]
 lock-version = "2.1"
-python-versions = ">=3.11"
-content-hash = "18afbb1bcaa6067c8f7ee9507d09013a5ca751ad493cfdb0c01bc5322082d7b4"
+python-versions = ">=3.11,<3.13"
+content-hash = "bc67fff08c611a9869e7f2204d3a2fb807f8fe69382ffa14b961191bfb5a8dc7"
