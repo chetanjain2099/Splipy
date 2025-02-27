@@ -7,7 +7,7 @@ from tqdm import tqdm
 import cv2
 import h5py
 from scipy.spatial import Delaunay
-from scipy.spatial.qhull import QhullError
+from scipy.spatial import QhullError
 
 from ..surface import Surface
 from ..volume import Volume
